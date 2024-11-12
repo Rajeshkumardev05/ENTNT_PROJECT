@@ -9,8 +9,8 @@ This is a web application designed to manage job listings, candidates, and asses
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Rajeshkumardev05/ENTNT_PROJECT.git
-   cd your-repo
-   ```
+   cd ENTNT_PROJECT
+      ```
 
 2. **Install dependencies**:
    ```bash
